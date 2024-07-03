@@ -3,9 +3,9 @@
     <td style="width: 90%; vertical-align: top; border: none;">
       <ul>
         <li> 👋 Hello there fellow traveller! </li>
-        <li> 🐲 Since you bumped here, i wish you have a lovely day! </li>
+        <li> 🐲 Since you bumped here, enjoy your day! </li>
         <li> 👹 I'm @justivanr. </li>
-        <li> 👀 Currently I'm an Artificial Intelligence student in Italy. </li>
+        <li> 👀 Currently I'm an A.I. student in Italy. </li>
         <li> :shipit: I’m into Machine Learning and Computer Vision. </li>
         <li> 🗿 I'm addicted to music and art. </li>
         <li> 🎸 I crave for metal and classical music. </li>
