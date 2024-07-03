@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**justivanr/justivanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 90%; vertical-align: top; border: none;">
+      <ul>
+        <li> 👋 Hello there fellow traveller! </li>
+        <li> 🐲 Since you bumped here, i wish you have a lovely day! </li>
+        <li> 👹 I'm @justivanr. </li>
+        <li> 👀 Currently I'm an Artificial Intelligence student in Italy. </li>
+        <li> :shipit: I’m into Machine Learning and Computer Vision. </li>
+        <li> 🗿 I'm addicted to music and art. </li>
+        <li> 🎸 I crave for metal and classical music. </li>
+      </ul>
+    </td>
+    <td style="width: 10%; vertical-align: top; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=justivanr&show_icons=true&theme=dracula" alt="Anurag's GitHub stats"/>
+    </td>
+  </tr>
+</table>
