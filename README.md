@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-Ivan's_Website-red?style=flat&logo=Google-Chrome&logoColor=white&link=https://justivanr.github.io/)](https://justivanr.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-Ivan_Rinaldi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-rinaldi-6b70a631b/)](https://www.linkedin.com/in/ivan-rinaldi-6b70a631b/)
 [![Scholar Badge](<https://img.shields.io/badge/-@Ivan_Rinaldi-rgb(78,144,254)?style=flat&labelColor=white&logo=GoogleScholar&link=https://scholar.google.com/citations?user=Z3wyeYYAAAAJ&hl=en>)](https://scholar.google.com/citations?user=Z3wyeYYAAAAJ&hl=en)
+[![Research Gate Badge](<https://img.shields.io/badge/-@Ivan_Rinaldi-rgb(22,171,158)?style=flat&labelColor=white&logo=ResearchGate&link=https://www.researchgate.net/profile/Ivan-Rinaldi-5>)](https://www.researchgate.net/profile/Ivan-Rinaldi-5)
 [![Orcid Badge](<https://img.shields.io/badge/-@Ivan_Rinaldi-rgb(166,206,57)?style=flat&labelColor=white&logo=Orcid&link=https://orcid.org/0009-0003-9597-064X>)](https://orcid.org/0009-0003-9597-064X)
 [![Medium Badge](https://img.shields.io/badge/-@justivanr-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@justivanr)](https://medium.com/@justivanr)
 
