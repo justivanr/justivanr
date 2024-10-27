@@ -1,9 +1,11 @@
 # Hello there! I'm Ivan, please take a seat! 🎠
 
 [![Cilab Badge](https://img.shields.io/badge/-CILab-000000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAeCAMAAACPKmerAAAAY1BMVEVHcEz////////////////////////////////////////////////////////////////////////+/v7////////////////////////////////////////////////////SRkMUAAAAIHRSTlMA2XHCFfxKCVp68fceoDVTYuomBMu9Pg9l4pUta7GI0D6eXicAAAFPSURBVDjL3ZPrboQgFIQBAQW5iIIu4IX3f8qqRdc229ZfTdMJiRE+DnNGBOAqbSj4qMHJDnyhR6o+zWBYlL9JY0Wp6BnOdBmp1lRkWvRUDU9WsIWTFKbUNDvdT4as8kFstEOEcMtEhnubYEBI6SD22pXhE3o8WJFs3OiIWIDJ9jusPGf44lsZT/fQBla7IfsWjEO1GXN17qytyo2W5Oi0C6kaji6bdSsAiIS8iHhcfWNoz5YUl89MwubSmpjXWK1WuuXyEp8TJ71u7UB95vmKLp70YBcM0tTdozvnxf3apYUYLKa9R0ezumCJ3aPnNK65L8ed/p6mxm7fkHJf7RMjj7qmws9XGts9hbLxuaj2xCFN6Sh1Iys6j/RQD4t+ninVyBGvc4ko9ztH6mNkJQmL6f3dh3ie2LV6RC+kYaG356hb8LO++83+D92NFfijegOZaBjlOXTvKgAAAABJRU5ErkJggg==&link=https://sites.google.com/site/cilabuniba/home)](https://sites.google.com/site/cilabuniba/home)
-[![Linkedin Badge](https://img.shields.io/badge/-Ivan_Rinaldi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-rinaldi-6b70a631b/)](https://www.linkedin.com/in/ivan-rinaldi-6b70a631b/)
 [![Website Badge](https://img.shields.io/badge/-Ivan's_Website-red?style=flat&logo=Google-Chrome&logoColor=white&link=https://justivanr.github.io/)](https://justivanr.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ivan_Rinaldi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-rinaldi-6b70a631b/)](https://www.linkedin.com/in/ivan-rinaldi-6b70a631b/)
+[![Scholar Badge](<https://img.shields.io/badge/-@Ivan_Rinaldi-rgb(78,144,254)?style=flat&labelColor=white&logo=GoogleScholar&link=https://scholar.google.com/citations?user=Z3wyeYYAAAAJ&hl=en>)](https://scholar.google.com/citations?user=Z3wyeYYAAAAJ&hl=en)
 [![Orcid Badge](<https://img.shields.io/badge/-@Ivan_Rinaldi-rgb(166,206,57)?style=flat&labelColor=white&logo=Orcid&link=https://orcid.org/0009-0003-9597-064X>)](https://orcid.org/0009-0003-9597-064X)
+[![Medium Badge](https://img.shields.io/badge/-@justivanr-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@justivanr)](https://medium.com/@justivanr)
 
 <ul>
   <li> 👋 Hello there fellow traveller! Welcome to my profile!</li>
@@ -50,3 +52,9 @@ Don't mind the snake; he's just winding his way around the chart. 🐍
   <br clear="both">
   <img src="https://raw.githubusercontent.com/justivanr/justivanr/output/snake.svg" alt="Snake Animation"/>
 </div>
+
+## 🐚 With that, It's all by my side! 🪸
+
+Take a breather, watch the koi swim by, and let your thoughts flow like the ripples in the pond. You’ve earned it!
+
+![](figures\Koi.gif)
