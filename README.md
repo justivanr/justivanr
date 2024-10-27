@@ -57,4 +57,4 @@ Don't mind the snake; he's just winding his way around the chart. 🐍
 
 Take a breather, watch the koi swim by, and let your thoughts flow like the ripples in the pond. You’ve earned it!
 
-![](figures\Koi.gif)
+![](https://raw.githubusercontent.com/justivanr/justivanr/main/figures/Koi.gif)
