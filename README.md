@@ -15,7 +15,7 @@
   <li> 👹 I'm @justivanr. </li>
   <li> 👀 Currently, I'm a PhD student in AI in Italy.</li>
   <li> 🔎 I'm pursuing my PhD with the CILab laboratory. </li>
-  <li> :shipit: I’m into Deep Learning (especially Multimodal DL) and Computer Vision.</li>
+  <li> :shipit: I’m into Multimodal Generative AI and Computer Vision.</li>
   <li> 🗿 I'm addicted to music and art. </li>
   <li> 🎸 I crave for metal and classical music. </li>
 </ul>
