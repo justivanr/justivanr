@@ -20,31 +20,6 @@
   <li> 🎸 I crave for metal and classical music. </li>
 </ul>
 
-## 🔨 Languages & Libraries I Use
-
-<div align="left">
-    <p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-    <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/></a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="matplotlib" width="40" height="40"/></a>
-    <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="plotly" width="40" height="40"/></a>
-    </p>
-</div>
-
-## 📊 Github Stats
-
-<div align="center">
-    <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justivanr&theme=dracula" height="200" width="380" alt="justivanr"/>
-  </div>
-</div>
-
 ## 📈 My Activity
 
 Don't mind the snake; he's just winding his way around the chart. 🐍
